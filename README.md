@@ -1,6 +1,7 @@
 # Web Design Homework - Web Visualization Dashboard (Latitude)
 
 Link to check output: https://tucamdang.github.io/WebDesign-challenge-ss11/
+OR: https://tucamdang.github.io/WebDesign-challenge-ss11/max_temperature.html
 
 This project is about design html with 7 pages, building the text, column and images and attached database (convert from csv to html). After that, we edit the colour by applying style.css and bootstrap.
 Generally we will have index.html is the homepage and connect index.html to the rest five html.
